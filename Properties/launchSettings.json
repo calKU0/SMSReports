@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FailedJobSMSReports": {
+      "commandName": "Project",
+      "commandLineArgs": "\"797450984\" \"test\""
+    }
+  }
+}
